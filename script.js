@@ -8,7 +8,7 @@ function getFormValue() {
 
      var Fruits = ["Apple","Orange","Kiwi"];
 
-   
+   Fruits.push("Peach");
     
 
     
